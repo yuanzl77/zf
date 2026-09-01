@@ -1,3 +1,4 @@
+tg频道,#genre#
 翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct
 翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct2
 翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct3
